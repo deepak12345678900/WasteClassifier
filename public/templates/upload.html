@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real-time Waste Classification</title>
+</head>
+<body>
+    <h1>Real-time Waste Classification</h1>
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*">
+        <button type="submit">Classify</button>
+    </form>
+</body>
+</html>
