@@ -54,4 +54,4 @@ def index():
                            plastic_conf=plastic_conf)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
