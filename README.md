@@ -49,7 +49,7 @@ Pip package manager
 
 ## Steps to Run the Project
 ### Clone the repository:
-git clone https://github.com/deepak0123456789/waste-classification.git
+git clone https://github.com/deepak12345678900/waste-classification.git
 cd waste-classification
 
 ### Install the required dependencies:
