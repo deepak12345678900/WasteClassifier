@@ -1,4 +1,4 @@
-#Waste Classification and Management System
+# Waste Classification and Management System
 ##Overview
 This project focuses on classifying waste materials into biodegradable and non-biodegradable categories. The system identifies six types of waste: glass, metal, paper, plastic, biological waste, and battery, using advanced machine learning models and facilitates their classification in real-time. The goal is to promote effective waste management and recycling practices.
 
