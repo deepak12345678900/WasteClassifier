@@ -3,7 +3,7 @@
 This project focuses on classifying waste materials into biodegradable and non-biodegradable categories. The system identifies six types of waste: glass, metal, paper, plastic, biological waste, and battery, using advanced machine learning models and facilitates their classification in real-time. The goal is to promote effective waste management and recycling practices.
 
 ## Features
-###Real-Time Waste Classification:
+### Real-Time Waste Classification:
 Classifies waste materials into six predefined categories using an AI-based model.
 
 ### Biodegradable & Non-Biodegradable Segregation:
