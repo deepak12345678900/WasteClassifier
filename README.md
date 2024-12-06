@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ### Run the Flask application:
 python app.py
 
-###Open the application in your browser:
+### Open the application in your browser:
 http://127.0.0.1:5000/
 Upload waste images for classification.
 
