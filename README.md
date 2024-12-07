@@ -1,5 +1,3 @@
-![Screenshot 2024-10-06 191827](https://github.com/user-attachments/assets/0847071b-2675-4fc4-b643-5d007a8fc915)
-![Screenshot 2024-10-06 193041](https://github.com/user-attachments/assets/1a3815d3-172a-43e8-897a-3471348f4691)
 # Waste Classification and Management System
 ## Overview
 This project focuses on classifying waste materials into biodegradable and non-biodegradable categories. The system identifies six types of waste: glass, metal, paper, plastic, biological waste, and battery, using advanced machine learning models and facilitates their classification in real-time. The goal is to promote effective waste management and recycling practices.
@@ -64,4 +62,11 @@ python app.py
 http://127.0.0.1:5000/
 Upload waste images for classification.
 
+
+# Home Page to Upload Images
+![Screenshot 2024-10-06 191827](https://github.com/user-attachments/assets/0847071b-2675-4fc4-b643-5d007a8fc915)
+
+# Prediction Page to display results
+
+![Screenshot 2024-10-06 193041](https://github.com/user-attachments/assets/1a3815d3-172a-43e8-897a-3471348f4691)
 
